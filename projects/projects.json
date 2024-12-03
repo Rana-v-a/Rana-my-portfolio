@@ -1,0 +1,24 @@
+[
+
+  {
+    "name": "Netflix",
+    "desc": "Netflix clone built using Html and Css.",
+    "image_path": "/assets/images/projects/netflix.png",
+    "category": "MERN",
+    "links": {
+      "view": "https://rana-v-a.github.io/Netflix-clone/",
+      "code": "https://rana-v-a.github.io/Netflix-clone/"
+    }
+  },
+  {
+    "name": "Nykaa Fashion clone",
+    "desc": "Nykaa fashion built using Html and Css.",
+    "image_path": "/assets/images/projects/Nykaa_fashion.png",
+    "category": "MERN",
+    "links": {
+      "view": " https://rana-v-a.github.io/Nykaa-fashion-clone/",
+      "code": "https://github.com/Rana-v-a/Nykaa-fashion-clone.git"
+    }
+  }
+  
+]
